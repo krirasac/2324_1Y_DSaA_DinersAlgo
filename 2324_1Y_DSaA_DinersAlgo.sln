@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2324_1Y_DSaA_DinersAlgo", "2324_1Y_DSaA_DinersAlgo\2324_1Y_DSaA_DinersAlgo.csproj", "{520F91E0-3516-4C22-B96B-3AB6C0A7CD5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{520F91E0-3516-4C22-B96B-3AB6C0A7CD5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{520F91E0-3516-4C22-B96B-3AB6C0A7CD5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{520F91E0-3516-4C22-B96B-3AB6C0A7CD5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{520F91E0-3516-4C22-B96B-3AB6C0A7CD5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC69135C-E37C-4C1F-999C-75F97A5B2D14}
+	EndGlobalSection
+EndGlobal
