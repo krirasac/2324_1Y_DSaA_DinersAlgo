@@ -28,12 +28,13 @@ namespace _2324_1Y_DSaA_DinersAlgo
 
             using (StreamReader cycle = new StreamReader("cycle.txt"))
             { 
-                string line = cycle.ReadLine();
-                count = int.Parse(line);
+                count = int.Parse(cycle.ReadLine());
             }
 
-            using (StreamWriter info = new StreamWriter("situation.txt"))
+            using (StreamWriter info = new StreamWriter("cycle.txt"))
             {
+                info.WriteLine(count);
+
                 while (cycleCount < count)
                 {
                     cycleCount++;
